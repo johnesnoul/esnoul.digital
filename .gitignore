@@ -1,0 +1,4 @@
+startDevServer.sh
+deployToProd.sh
+boxfile.sh
+themes/hugo-elate-theme
